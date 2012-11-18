@@ -55,3 +55,60 @@
 [submodule "UserLib/TapTools"]
 	path = UserLib/TapTools
 	url = git://github.com/tap/TapTools.git
+[submodule "Jamoma.Ircam.FTM"]
+	path = Jamoma.Ircam.FTM
+	url = git://github.com/lossius/Jamoma.Ircam.FTM.git
+[submodule "ViMiC-and-friends"]
+	path = ViMiC-and-friends
+	url = git://github.com/Nilson/ViMiC-and-friends.git
+[submodule "Schumacher"]
+	path = Schumacher
+	url = git://github.com/marleynoe/Schumacher.git
+[submodule "Z"]
+	path = Z
+	url = git://github.com/bltzr/Z.git
+[submodule "Jamoma.Ircam.Spat"]
+	path = Jamoma.Ircam.Spat
+	url = git://github.com/lossius/Jamoma.Ircam.Spat.git
+[submodule "Jamoma.Ircam.IMTR"]
+	path = Jamoma.Ircam.IMTR
+	url = git://github.com/lossius/Jamoma.Ircam.IMTR
+[submodule "JamomaUserLibSupport"]
+	path = JamomaUserLibSupport
+	url = git://github.com/Nilson/JamomaUserLibSupport.git
+[submodule "Holophon"]
+	path = Holophon
+	url = git://github.com/Nilson/Holophon.git
+[submodule "NavNav"]
+	path = NavNav
+	url = git://github.com/navid/NavNav.git
+[submodule "Jamoma.GDIF"]
+	path = Jamoma.GDIF
+	url = git://github.com/krisny/Jamoma.GDIF.git
+[submodule "SoundhackWrappers"]
+	path = SoundhackWrappers
+	url = git://github.com/jln-/SoundhackWrappers.git
+[submodule "Jamoma.MusicSpace"]
+	path = Jamoma.MusicSpace
+	url = git://github.com/Nilson/Jamoma.MusicSpace.git
+[submodule "ag.granular.suite"]
+	path = ag.granular.suite
+	url = git://github.com/adrian-gierakowski/ag.granular.suite.git
+[submodule "Jamoma"]
+	path = Jamoma
+	url = git://github.com/SpatDIF/Jamoma.git
+[submodule "blueyeti_jamoma"]
+	path = blueyeti_jamoma
+	url = git://github.com/blueyeti/blueyeti_jamoma.git
+[submodule "GMEA"]
+	path = GMEA
+	url = git://github.com/theod/GMEA.git
+[submodule "JamomaSupport"]
+	path = JamomaSupport
+	url = git://github.com/jamoma/JamomaSupport.git
+[submodule "rdpozo_Modules"]
+	path = rdpozo_Modules
+	url = git://github.com/ricardo78/rdpozo_Modules.git
+[submodule "TapTools"]
+	path = TapTools
+	url = git://github.com/tap/TapTools.git
