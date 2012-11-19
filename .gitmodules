@@ -49,7 +49,7 @@
 [submodule "UserLib/Support"]
 	path = UserLib/Support
 	url = git://github.com/jamoma/JamomaSupport.git
-[submodule "UserLib/rdpozo_Modules"]
+[submodule "UserLib/rdpozo"]
 	path = UserLib/rdpozo
 	url = git://github.com/ricardo78/rdpozo_Modules.git
 [submodule "UserLib/TapTools"]
