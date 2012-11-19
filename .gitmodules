@@ -1,57 +1,57 @@
-[submodule "UserLib/Jamoma.Ircam.FTM"]
-	path = UserLib/Jamoma.Ircam.FTM
+[submodule "Jamoma.Ircam.FTM"]
+	path = Jamoma.Ircam.FTM
 	url = git://github.com/lossius/Jamoma.Ircam.FTM.git
-[submodule "UserLib/ViMiC"]
-	path = UserLib/ViMiC
+[submodule "ViMiC"]
+	path = ViMiC
 	url = git://github.com/Nilson/ViMiC-and-friends.git
-[submodule "UserLib/Schumacher"]
-	path = UserLib/Schumacher
+[submodule "Schumacher"]
+	path = Schumacher
 	url = git://github.com/marleynoe/Schumacher.git
-[submodule "UserLib/Z"]
-	path = UserLib/Z
+[submodule "Z"]
+	path = Z
 	url = git://github.com/bltzr/Z.git
-[submodule "UserLib/Jamoma.Ircam.Spat"]
-	path = UserLib/Jamoma.Ircam.Spat
+[submodule "Jamoma.Ircam.Spat"]
+	path = Jamoma.Ircam.Spat
 	url = git://github.com/lossius/Jamoma.Ircam.Spat.git
-[submodule "UserLib/Jamoma.Ircam.IMTR"]
-	path = UserLib/Jamoma.Ircam.IMTR
+[submodule "Jamoma.Ircam.IMTR"]
+	path = Jamoma.Ircam.IMTR
 	url = git://github.com/lossius/Jamoma.Ircam.IMTR
-[submodule "UserLib/support"]
-	path = UserLib/support
+[submodule "UserLibSupport"]
+	path = UserLibSupport
 	url = git://github.com/Nilson/JamomaUserLibSupport.git
-[submodule "UserLib/Holophon"]
-	path = UserLib/Holophon
+[submodule "Holophon"]
+	path = Holophon
 	url = git://github.com/Nilson/Holophon.git
-[submodule "UserLib/NavNav"]
-	path = UserLib/NavNav
+[submodule "NavNav"]
+	path = NavNav
 	url = git://github.com/navid/NavNav.git
-[submodule "UserLib/GDIF"]
-	path = UserLib/GDIF
+[submodule "GDIF"]
+	path = GDIF
 	url = git://github.com/krisny/Jamoma.GDIF.git
-[submodule "UserLib/SoundhackWrappers"]
-	path = UserLib/SoundhackWrappers
+[submodule "SoundhackWrappers"]
+	path = SoundhackWrappers
 	url = git://github.com/jln-/SoundhackWrappers.git
-[submodule "UserLib/MusicSpace"]
-	path = UserLib/MusicSpace
+[submodule "MusicSpace"]
+	path = MusicSpace
 	url = git://github.com/Nilson/Jamoma.MusicSpace.git
-[submodule "UserLib/ag.granular"]
-	path = UserLib/ag.granular
+[submodule "ag.granular"]
+	path = ag.granular
 	url = git://github.com/adrian-gierakowski/ag.granular.suite.git
-[submodule "UserLib/SpatDIF"]
-	path = UserLib/SpatDIF
+[submodule "SpatDIF"]
+	path = SpatDIF
 	url = git://github.com/SpatDIF/Jamoma.git
-[submodule "UserLib/BlueYeti"]
-	path = UserLib/BlueYeti
+[submodule "BlueYeti"]
+	path = BlueYeti
 	url = git://github.com/blueyeti/blueyeti_jamoma.git
-[submodule "UserLib/GMEA"]
-	path = UserLib/GMEA
+[submodule "GMEA"]
+	path = GMEA
 	url = git://github.com/theod/GMEA.git
-[submodule "UserLib/Support"]
-	path = UserLib/Support
+[submodule "Support"]
+	path = Support
 	url = git://github.com/jamoma/JamomaSupport.git
-[submodule "UserLib/rdpozo"]
-	path = UserLib/rdpozo
+[submodule "rdpozo"]
+	path = rdpozo
 	url = git://github.com/ricardo78/rdpozo_Modules.git
-[submodule "UserLib/TapTools"]
-	path = UserLib/TapTools
+[submodule "TapTools"]
+	path = TapTools
 	url = git://github.com/tap/TapTools.git
