@@ -25,15 +25,9 @@
 [submodule "NavNav"]
 	path = NavNav
 	url = git://github.com/navid/NavNav.git
-[submodule "GDIF"]
-	path = GDIF
-	url = git://github.com/krisny/Jamoma.GDIF.git
 [submodule "SoundhackWrappers"]
 	path = SoundhackWrappers
 	url = git://github.com/jln-/SoundhackWrappers.git
-[submodule "MusicSpace"]
-	path = MusicSpace
-	url = git://github.com/Nilson/Jamoma.MusicSpace.git
 [submodule "ag.granular"]
 	path = ag.granular
 	url = git://github.com/adrian-gierakowski/ag.granular.suite.git
