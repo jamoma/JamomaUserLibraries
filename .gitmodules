@@ -52,3 +52,6 @@
 [submodule "TapTools"]
 	path = TapTools
 	url = git://github.com/tap/TapTools.git
+[submodule "SpatDIF"]
+	path = SpatDIF
+	url = git://github.com/SpatDIF/Jamoma.git
