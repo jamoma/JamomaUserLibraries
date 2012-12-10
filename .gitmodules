@@ -37,9 +37,6 @@
 [submodule "ag.granular"]
 	path = ag.granular
 	url = git://github.com/adrian-gierakowski/ag.granular.suite.git
-[submodule "SpatDIF"]
-	path = SpatDIF
-	url = git://github.com/SpatDIF/Jamoma.git
 [submodule "BlueYeti"]
 	path = BlueYeti
 	url = git://github.com/blueyeti/blueyeti_jamoma.git
