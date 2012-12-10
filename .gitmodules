@@ -1,15 +1,6 @@
-[submodule "Jamoma.Ircam.FTM"]
-	path = Jamoma.Ircam.FTM
-	url = git://github.com/lossius/Jamoma.Ircam.FTM.git
 [submodule "Schumacher"]
 	path = Schumacher
 	url = git://github.com/marleynoe/Schumacher.git
-[submodule "Jamoma.Ircam.Spat"]
-	path = Jamoma.Ircam.Spat
-	url = git://github.com/lossius/Jamoma.Ircam.Spat.git
-[submodule "Jamoma.Ircam.IMTR"]
-	path = Jamoma.Ircam.IMTR
-	url = git://github.com/lossius/Jamoma.Ircam.IMTR
 [submodule "Holophon"]
 	path = Holophon
 	url = git://github.com/Nilson/Holophon.git
