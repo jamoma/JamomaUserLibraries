@@ -55,6 +55,3 @@
 [submodule "MusicSpace"]
 	path = MusicSpace
 	url = git://github.com/Nilson/Jamoma.MusicSpace.git
-[submodule "SonData"]
-	path = SonData
-	url = https://github.com/JoaoMenezes/SonData.git
